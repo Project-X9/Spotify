@@ -10,3 +10,6 @@
 [submodule "Testing"]
 	path = Testing
 	url = https://github.com/Project-X9/Testing
+[submodule "DevOps"]
+	path = DevOps
+	url = https://github.com/Project-X9/DevOps
